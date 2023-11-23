@@ -645,7 +645,7 @@
                 </div>
                 <div class="testimonial-item text-center">
                     <div class="testimonial-img position-relative">
-                        <img class="img-fluid rounded-circle mx-auto mb-5" src="{{ mix('/storage/app/img/testimonial-3.jpg') }}">
+                        <img class="img-fluid rounded-circle mx-auto mb-5" src="{{ mix('/storage/appimg/testimonial-3.jpg') }}">
                         <div class="btn-square bg-primary rounded-circle">
                             <i class="fa fa-quote-left text-white"></i>
                         </div>
@@ -734,6 +734,9 @@
             </div>
         </div>
     </div>
+    <!-- Footer End -->
+    <!-- Footer End -->
+    <!-- Footer End -->
     <!-- Footer End -->
 
 
